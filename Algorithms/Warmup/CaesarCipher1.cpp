@@ -1,3 +1,8 @@
+/*
+Author : Sayantan Pandit
+Date   : 20/05/2015
+*/
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
