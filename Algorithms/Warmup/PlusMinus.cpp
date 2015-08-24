@@ -1,3 +1,10 @@
+/*
+Program Name : Plus Minus
+Link         : https://www.hackerrank.com/challenges/plus-minus
+Author Name  : Sayantan Pandit
+Date         : 14-08-2015 
+*/
+
 #include <cmath>
 #include <cstdio>
 #include <vector>

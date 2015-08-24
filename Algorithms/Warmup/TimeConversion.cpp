@@ -1,3 +1,10 @@
+/*
+Program Name : Time Conversion
+Link         : https://www.hackerrank.com/challenges/time-conversion
+Author Name  : Sayantan Pandit
+Date         : 14-08-2015 
+*/
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -28,7 +35,8 @@ int main()
   printf(":%02d:%02d\n", mins, sec);  
 
 
-  /*string str;
+  /*Another Method
+  string str;
   cin >> str;
   int val = (str[0] - '0') * 10 + (str[1] - '0');
   if (str[8] == 'A') 

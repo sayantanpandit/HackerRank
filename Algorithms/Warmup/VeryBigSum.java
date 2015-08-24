@@ -1,3 +1,10 @@
+/*
+Program Name : A Very Big Sum
+Link         : https://www.hackerrank.com/challenges/a-very-big-sum
+Author Name  : Sayantan Pandit
+Date         : 12-08-2015 
+*/
+
 import java.io.*;
 import java.util.*;
 import java.text.*;

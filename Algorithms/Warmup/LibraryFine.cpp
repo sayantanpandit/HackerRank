@@ -1,3 +1,10 @@
+/*
+Program Name : Library Fine
+Link         : https://www.hackerrank.com/challenges/library-fine
+Author Name  : Sayantan Pandit
+Date         : 14-08-2015 
+*/
+
 #include <cmath>
 #include <cstdio>
 #include <vector>

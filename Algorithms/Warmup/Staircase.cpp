@@ -1,3 +1,10 @@
+/*
+Program Name : Staircase
+Link         : https://www.hackerrank.com/challenges/staircase
+Author Name  : Sayantan Pandit
+Date         : 14-08-2015 
+*/
+
 #include <cmath>
 #include <cstdio>
 #include <vector>

@@ -1,3 +1,10 @@
+/*
+Program Name : Diagonal Difference
+Link         : https://www.hackerrank.com/challenges/diagonal-difference
+Author Name  : Sayantan Pandit
+Date         : 12-08-2015 
+*/
+
 import java.io.*;
 import java.util.*;
 import java.text.*;

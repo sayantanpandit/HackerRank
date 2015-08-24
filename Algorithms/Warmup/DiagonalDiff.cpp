@@ -1,3 +1,10 @@
+/*
+Program Name : Diagonal Difference
+Link         : https://www.hackerrank.com/challenges/diagonal-difference
+Author Name  : Sayantan Pandit
+Date         : 12-08-2015 
+*/
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
