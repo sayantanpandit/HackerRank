@@ -27,14 +27,10 @@
    8. Modified Kaprekar Numbers
 ```
 ## 3. [Strings](https://github.com/sayantanpandit/HackerRank/tree/master/Algorithms/Strings)
-
- | SN. | Name           |
- -----:|-----------------
- |  1. | Funny String   |
- -----:|----------------
- |  2. | Pangrams       |
- -----:|----------------|
-
+```sh
+   1.  Funny String
+   2.  Pangrams
+```
 ## 4. [Sorting](https://github.com/sayantanpandit/HackerRank/tree/master/Algorithms/Sorting)
 ```sh
    1. Intro to Tutorial Challenges
