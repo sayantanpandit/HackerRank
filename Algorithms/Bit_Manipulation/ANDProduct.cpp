@@ -24,7 +24,7 @@ int main()
      res = a;
      for(unsigned long long int i=a+1; i<=b; i++)
           res = res & i;
-     printf("%llu\n", res);
+     printf("%llu\n",  res);
    } 
    return 0;
 }
