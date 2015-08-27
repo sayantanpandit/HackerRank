@@ -1,6 +1,6 @@
 # HELLO
 ---
-## The solution of the following HackerRank Problems are listed below :  
+## The solution of the following HackerRank Problems :  
 
 # Algorithms
 ## 1. [Warmup](https://github.com/sayantanpandit/HackerRank/tree/master/Algorithms/Warmup)
