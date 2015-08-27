@@ -1,6 +1,6 @@
 # HELLO
 ---
-## The solution of the following HackerRank Problems :  
+## The solution of the following HackerRank Problems are listed below :  
 
 # Algorithms
 ## 1. [Warmup](https://github.com/sayantanpandit/HackerRank/tree/master/Algorithms/Warmup)
@@ -36,6 +36,11 @@
    1. Intro to Tutorial Challenges
    2. Insertion Sort - Part 1
    3. Insertion Sort - Part 2
+   4. Correctness and the Loop Invariant
+   5. Running Time of Algorithms
+   6. Counting Sort 1
+   7. Counting Sort 2
+   8. Counting Sort 3
 ```
 ## 5. [Dynamic Programming](https://github.com/sayantanpandit/HackerRank/tree/master/Algorithms/Dynamic_Programming)
 ```sh
