@@ -1,6 +1,6 @@
 /*
-Program Name : Japanese Cities Detail
-Link         : https://www.hackerrank.com/challenges/japanese-cities-detail
+Program Name : Japanese Cities' Name
+Link         : https://www.hackerrank.com/challenges/japanese-cities-name
 Author Name  : Sayantan Pandit
 Date         : 15-08-2015 
 */
@@ -19,7 +19,8 @@ Given a City table, whose fields are described as
 | Population  | int(11)  |
 +-------------+----------+
 
-you have to print all the details of all the cities of Japan. The CountryCode for Japan is "JPN".
+you have to print the name of all the cities of Japan. The CountryCode for Japan is "JPN".
 
-Query :
-Select * from City where CountryCode = 'JPN';
+
+Query:
+Select name from City where CountryCode = 'JPN';
