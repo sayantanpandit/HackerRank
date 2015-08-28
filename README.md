@@ -9,3 +9,8 @@ Details of the Repository
   4. [Sorting](https://github.com/sayantanpandit/HackerRank/tree/master/Algorithms/Sorting)
   5. [Search](https://github.com/sayantanpandit/HackerRank/tree/master/Algorithms/Search)
   6. [Dynamic Programming](https://github.com/sayantanpandit/HackerRank/tree/master/Algorithms/Dynamic_Programming)
+  7. [Bit Manipulation](https://github.com/sayantanpandit/HackerRank/tree/master/Algorithms/Bit_Manipulation)
+  
+# SQL
+  1. Select
+
