@@ -1,0 +1,26 @@
+/*
+Program Name : Select All
+Link         : https://www.hackerrank.com/challenges/select-all-sql
+Author Name  : Sayantan Pandit
+Date         : 15-08-2015 
+*/
+
+Problem Statement
+
+Given a City table, whose fields are described as
+
++-------------+----------+
+| Field       | Type     |
++-------------+----------+
+| ID          | int(11)  |
+| Name        | char(35) |
+| CountryCode | char(3)  |
+| District    | char(20) |
+| Population  | int(11)  |
++-------------+----------+
+
+you have to print all the details of all the cities of Japan. The CountryCode for Japan is "JPN".
+
+Query :
+
+Select * from City where CountryCode = 'JPN';
