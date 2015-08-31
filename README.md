@@ -12,5 +12,4 @@ Details of the Repository
   7. [Bit Manipulation](https://github.com/sayantanpandit/HackerRank/tree/master/Algorithms/Bit_Manipulation)
   
 # SQL
-  1. Select
-
+  1. [Select]()
