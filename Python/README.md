@@ -3,7 +3,7 @@
 ## The solution of the following HackerRank Problems :  
 
 # Introduction
-##  1. [Say "Hello, World!" With Python](https://github.com/sayantanpandit/HackerRank/tree/master/Algorithms/Warmup)
+###  1. [Say "Hello, World!" With Python]
 ##  2. [Raw Input](https://github.com/sayantanpandit/HackerRank/tree/master/Algorithms/Warmup)
 ##  3. [Arithmetic Operators](https://github.com/sayantanpandit/HackerRank/tree/master/Algorithms/Warmup)
 ##  4. [Python Division](https://github.com/sayantanpandit/HackerRank/tree/master/Algorithms/Warmup)

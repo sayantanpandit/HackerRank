@@ -15,3 +15,5 @@ Details of the Repository
   1. [Select](https://github.com/sayantanpandit/HackerRank/tree/master/SQL/Select)
   2. [Aggregation](https://github.com/sayantanpandit/HackerRank/tree/master/SQL/Aggregation)
   3. [Join](https://github.com/sayantanpandit/HackerRank/tree/master/SQL/Join)
+ 
+# Python 
